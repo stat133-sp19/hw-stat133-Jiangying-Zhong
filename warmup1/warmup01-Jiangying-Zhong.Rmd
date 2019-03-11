@@ -1,0 +1,88 @@
+---
+title: "warmup01-Jiangying-Zhong"
+output: github_document
+---
+
+**Star War**\
+*Torra Doza*\
+
+
+> I just wanted to wish my
+> comprtition good luck on
+> tomorrow's big race.\
+
+![Torra Doza](https://vignette.wikia.nocookie.net/starwars/images/1/1c/SWResistance-TorraDoza.jpg/revision/latest?cb=20180914205610)
+
+
+| Description | Value |
+|-------------|:-----:|
+|   Species   | Human |
+|    Gender   | Female|
+|   Eye Color | Yellow|
+|  Skin Color | Green |
+
+**Cooking Recipe**\
+*Baked Buffalo Wings*\
+
+
+1. Ingredients
+
+- chicken wings
+- baking powder
+- kosher salt
+- sauce
+- unsalted butter
+- homemade blue cheese dressing
+- celery
+- carrot sticks
+
+2. "Special Kitchen Tools"
+- foil
+- oven-safe cooling rack
+- paper towel
+- bowl
+- teaspoon
+- refrigerator
+- oven
+- saucepan
+- tablespoon
+
+3. Steps
+- 4 pounds chicken wings taht have been cut into flats and drumettes
+- 1/2 teaspoons to 2 tablespoons baking powder(using 1/2 teaspoons per pound)
+- 4 teaspoons kosher salt(using 1 teaspoon per pound; use less salt if you are not using Diamond brand)
+- 2 tablespoons hot sauce(Frank's RedHot is traditional per pound of wings)
+- 1/2 to 2 tablespoons unsalted butter per pound of wings
+
+
+![Baked Buffalo Wings](https://smittenkitchendotcom.files.wordpress.com/2019/01/oven-baked-buffalo-wings.jpg?w=1024)
+
+
+> *There isn't a special 
+> season of the year for it.*\
+> *There are variations of the 
+> recipe.*\
+
+**Other Ingredients**:
+
+
+> > * buttermilk
+> > * mayonnaise
+> > * cream
+> > * juice of half a lemon
+> > * vinegar
+> > * black pepper
+
+**Euclidean Distance**\
+*Definition*\
+
+The **Euclidean distance** between points **p** and **q** is the length of the line segment connecting them $\bf\bar{pq}$.
+In Cartesian coordinates, if $\textbf{p} = (p_1,p_2,..,p_n)$ and $\textbf{q} = (q_1,q_2,...,q_n)$ are two points in the distance(d) from $\textbf{p}$ to $\textbf{q}$,or from $\textbf{q}$ to $\textbf{p}$ is given by the Pythagorean formula:
+\begin{equation}
+d(p,q)=d(q,p)=\sqrt{(q_1-p_1)^2+(q_2-p_2)^2+\underbrace{\cdots}_{\rm cdots}+(q_n-p_n)^2}=\sqrt{\sum_{i=1}^n(q_i-p_i)^2}
+\end{equation}
+The position of a point in a Euclidean n-space is a Euclidean vector.So **p** and **q** may be represented as Euclidean vectors,starting from the origin of the space(initial point) with their tips(terminal points)ending at the two points.The Euclidean norm, or **Euclidean length**, or **magnitude** of a vectormeasures the length of the vector.
+\begin{equation}
+||p||=\sqrt{p_1^2+p_2^2+\underbrace{\cdots}_{\rm cdots}+p_n^2}=\sqrt{p*p}
+\end{equation}
+where the last expression involves the dot product.
