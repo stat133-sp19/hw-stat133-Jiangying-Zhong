@@ -1,0 +1,1 @@
+This homework asks us to write a report, which mainly analyzes the shooting statistics of five GSW players during 2016 season:Andre Iguodala,Graymond Green,Klay Thompson,Kevin Durant and Stephen Curry.Furthermore, it also predicts the potential value of each player as well as their best position.
