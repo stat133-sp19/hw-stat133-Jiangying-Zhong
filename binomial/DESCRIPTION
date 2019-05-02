@@ -1,0 +1,21 @@
+Package: binomial
+Type: Package
+Title: Caculate the binomial distribution
+Version: 0.1.0
+Authors@R: person("Jiangying", "Zhong", email = "eileen_zjy@berkeley.edu", role = c("aut", "cre"))
+Description:The package `"binomial"` is a minimal implementation for calculating probabilities of a Binomial random variable.
+Depends:
+    R (>= 3.1.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Collate:
+    Main-Function.R
+    Private-Auxiliary-Functions.R
+    Private-Checker-Functions.R
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
